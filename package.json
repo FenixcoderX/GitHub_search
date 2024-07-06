@@ -10,8 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@apollo/client": "^3.10.8",
+    "effector": "^23.2.2",
+    "effector-react": "^23.2.1",
+    "graphql": "^16.9.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.24.1"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
